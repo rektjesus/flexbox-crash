@@ -13,11 +13,13 @@ body {
     background-color: #f4f4f4;
     /* justify-content: end; */
     /* align-items: start; */
+    /* flex-wrap: wrap; */
+
 
 }
 
 .item {
-    width: 100px;
+    flex: 1;
     height: 100px;
     background: #254de4;
     color: #fff;
