@@ -94,11 +94,13 @@ ul {
 
 .boxes .container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
 .box {
     flex: 1;
+    min-width: 300px;
     background: #0a51cc;
     color: #fff;
     border-radius: 10px;
