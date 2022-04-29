@@ -109,6 +109,10 @@ ul {
     padding: 15px 20px;
 }
 
+.box:hover {
+    background-color: rgb(75, 168, 255);
+}
+
 .box i {
     margin-right: 10px;
 }
